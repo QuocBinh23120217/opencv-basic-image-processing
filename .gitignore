@@ -3,4 +3,5 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 .DS_Store
-.output/
+output/
+anh.jpg

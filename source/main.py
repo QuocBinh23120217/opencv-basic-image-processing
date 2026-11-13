@@ -1,7 +1,7 @@
 """
 Điểm vào chung: chạy các thao tác xử lý ảnh trên một ảnh và lưu kết quả.
-
-Chạy:
+Ảnh đầu vào sẽ lưu vào thư mục project
+Chạy với các lệnh sau:
     python source/main.py <đường_dẫn_ảnh>                 # chạy cả 4 phần
     python source/main.py <đường_dẫn_ảnh> --task edge     # chỉ chạy 1 phần
     python source/main.py <đường_dẫn_ảnh> -o ketqua       # đổi thư mục lưu
